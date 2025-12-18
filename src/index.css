@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(135deg, #f5f7fa 0%, #e9f0f5 100%);
+  color: #2d3748;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Utility animations */
+@keyframes slideInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes fadeIn {
+  from { opacity: 0; } to { opacity: 1; }
+}
+
+/* Tailwind components layer for reusable pieces */
+@layer components {
+  :root {
+    --bg-100: #f5f7fa;
+    --bg-200: #eef6fb;
+    --card-bg: #ffffff;
+    --muted: #64748b;
+    --accent-1: #60a5fa; /* soft blue */
+    --accent-2: #2563eb; /* primary blue */
+    --purple-creative: #7c3aed;
+  }
+
+  .card-base {
+    @apply bg-white rounded-3xl shadow-lg border border-slate-100/50;
+  }
+
+  .btn-primary {
+    @apply px-6 py-3 bg-gradient-to-r from-blue-600 to-indigo-600 text-white font-semibold rounded-full shadow;
+  }
+
+  .btn-ghost {
+    @apply px-4 py-2 text-sm rounded-full bg-slate-100 hover:bg-slate-200;
+  }
+
+  .text-gradient { @apply bg-gradient-to-r from-slate-900 to-slate-700 bg-clip-text text-transparent; }
+
+  .section-title { @apply text-2xl font-bold text-slate-900; }
+
+  .muted { color: var(--muted); }
+}

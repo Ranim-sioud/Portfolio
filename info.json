@@ -1,0 +1,260 @@
+{
+  "site_metadata": {
+    "title": "Portfolio",
+    "owner": "",
+    "role": "Développeuse",
+    "language": "fr",
+    "contact_info": {
+      "email": "sioudranim@gmail.com",
+      "phone": "99730704",
+      "linkedin": "linkedin.com/in/ranim-sioud-6a6999224/",
+      "github": "github.com/Ranim-sioud"
+    }
+  },
+
+  "design_system": {
+    "vibe": "Soft, Modern, Dashboard-style, Friendly UI (Mood Tracker Style)",
+    "layout_structure": "Bento Grid / Dashboard Modular Layout",
+    "colors": {
+      "background": "#F3F5F9",
+      "card_bg": "#FFFFFF",
+      "text_primary": "#2D3436",
+      "text_secondary": "#636E72",
+      "accents": {
+        "primary_blue": "#5E81F4",
+        "soft_blue": "#A0D2EB",
+        "energetic_orange": "#FFB17A",
+        "growth_green": "#76D495",
+        "creative_purple": "#A29BFE",
+        "alert_red": "#FF7675"
+      }
+    },
+    "shapes": {
+      "border_radius": "24px",
+      "chart_bar_style": "Rounded top, emoji on top of bar"
+    },
+    "typography": {
+      "font_family": "'Poppins', sans-serif",
+      "headings": "Bold, Friendly"
+    }
+  },
+
+  "content": {
+    "header": {
+      "greeting": "Bonjour, je suis Ranim!",
+      "main_question": "Créer des solutions élégantes et efficaces, du front-end et du back-end.",
+      "sub_date": "Disponible immédiatement • Basée à Tunis"
+    },
+
+    "dashboard_grid": {
+      "hero_card": {
+        "title": "Mon État d'Esprit",
+        "status": "Prête pour les défis",
+        "icon_emoji": "🚀",
+        "main_color": "#FFB17A",
+        "quote": "\"Le code est comme l'humour. Si vous devez l'expliquer, c'est qu'il est mauvais.\""
+      },
+
+      "stats_cards": [
+        {
+          "title": "Frontend",
+          "value": "",
+          "subtext": "HTML/CSS, Bootstrap, React",
+          "icon": "⚡",
+          "color": "#A0D2EB"
+        },
+        {
+          "title": "Backend",
+          "value": "",
+          "subtext": "Node.js, express.js",
+          "icon": "🧠",
+          "color": "#5E81F4"
+        },
+        {
+          "title": "Base de Données",
+          "value": "",
+          "subtext": "SQL/MySQL, MongoDB",
+          "icon": "💾",
+          "color": "#5E81F4"
+        }
+      ],
+
+      "bio_card": {
+        "title": "Éducation & Certifications",
+        "education": [
+          {
+            "institution": "Institut supérieur d'informatique et des technologies de communication, Sousse",
+            "period": "Sep 2022 - Juin 2025",
+            "degree": "Diplôme National d'Ingénieur en Sciences Appliquées et Technologies"
+          },
+          {
+            "institution": "Institut supérieur d'informatique de Mahdia",
+            "period": "Sep 2019 - Juin 2022",
+            "degree": "Licence en informatique de gestion : Business intelligence"
+          },
+          {
+            "institution": "Lycée secondaire de Rejiche",
+            "period": "Sep 2018 - Juin 2019",
+            "degree": "Baccalauréat scientifique"
+          }
+        ],
+        "certificates": [
+          {"title": "R 101", "issuer": "Cognitive class : IBM", "date": "10/2021"},
+          {"title": "Injaz Company program", "issuer": "Injaz Tunisia-fsegma", "date": "06/2021"},
+          {"title": "Python 101 for data science", "issuer": "Cognitive class : IBM", "date": "04/2021"},
+          {"title": "Prise de parole en public", "issuer": "Advanced training & consulting", "date": "03/2020"},
+          {"title": "C langage basics workshop", "issuer": "Microsoft ISIMA club", "date": "11/2019"}
+        ]
+      },
+
+      "skills_chart": {
+        "title": "Compétences Techniques",
+        "description": "Technologies et outils",
+        "data": [
+          {"label": "Bootstrap", "level": 40, "color": "#A0D2EB", "emoji": "🎨"},
+          {"label": "C", "level": 30, "color": "#FFB17A", "emoji": "🔧"},
+          {"label": "CSS3", "level": 45, "color": "#76D495", "emoji": "🎛️"},
+          {"label": "HTML5", "level": 45, "color": "#A29BFE", "emoji": "📄"},
+          {"label": "JavaScript", "level": 60, "color": "#FF7675", "emoji": "⚙️"},
+          {"label": "React.js", "level": 60, "color": "#5E81F4", "emoji": "⚛️"},
+          {"label": "Next.js", "level": 40, "color": "#60A5FA", "emoji": "➡️"},
+          {"label": "Node.js", "level": 60, "color": "#34D399", "emoji": "🟢"},
+          {"label": "Laravel", "level": 35, "color": "#F97316", "emoji": "🌐"},
+          {"label": "Python", "level": 35, "color": "#F472B6", "emoji": "🐍"},
+          {"label": "SQL/MySQL", "level": 60, "color": "#60A5FA", "emoji": "💾"},
+          {"label": "MongoDB", "level": 60, "color": "#34D399", "emoji": "🍃"}
+        ]
+      },
+
+      "experience": [
+        {
+          "company": "SMARTECH Mahdia",
+          "period": "Février 2025 - Mai 2025",
+          "role": "Développeuse Web - Stage",
+          "description": "Plateforme web basée sur l’IA permettant de centraliser les informations et d’automatiser certaines tâches au sein des ESN.",
+          "technologies": "MongoDB, Express, React, Node, Python, Flask, Scrapy, Selenium, NLP, Google Gemini, Dialogflow",
+          "methodology": "SCRUM"
+        },
+        {
+          "company": "SMARTECH Mahdia",
+          "period": "Juillet 2024 - Août 2024",
+          "role": "Développeuse",
+          "description": "Développement d'une application de syndic",
+          "technologies": "React, Node, Express, MySQL",
+          "methodology": "SCRUM"
+        },
+        {
+          "company": "SMARTECH TN",
+          "period": "Février 2022 - Juin 2022",
+          "role": "Développeuse",
+          "description": "Conception et développement d'une application web de chasse des profils et missions",
+          "technologies": "React, Node, Express, MongoDB, Bootstrap",
+          "methodology": "RUP"
+        }
+      ],
+
+      "projects_list": {
+        "title": "Projets",
+        "list": [
+          {
+            "name": "Nexa Network",
+            "metric": "React.js, Node.js, Express.js, Typescript, PostgreSQL",
+            "status": "Plateforme complète de gestion de dropshipping",
+            "description": "Développement d'une plateforme web complète de gestion de dropshipping, permettant aux utilisateurs de gérer efficacement leurs produits, commandes et clients tout en intégrant des fonctionnalités avancées pour optimiser les opérations commerciales.",
+            "emoji_indicator": "🛒",
+            "link": null,
+            "media": [
+              { "type": "video", "src": "/assets/freelance.mp4", "caption": "Démo chasse de profils" },
+              { "type": "video", "src": "/assets/freelance1.mp4", "caption": "Démo 1 chasse de profils" }
+            ]
+          },
+          {
+            "name": "Jobia",
+            "metric": "MongoDB, Express js, Reactjs, Node js, Python, Flask, Scrapy, Selenium, NLP, Google Gemini, Dialogflow",
+            "status": "Plateforme web basée sur l’IA pour les Entreprise de Services Numériques (ESN)",
+            "description": "Plateforme web basée sur l’IA permettant de centraliser les informations et d’automatiser certaines tâches au sein des Entreprise de Services Numériques (ESN).",
+            "emoji_indicator": "🤖",
+            "link": null,
+            "media": [
+              { "type": "video", "src": "/assets/jobia.mp4", "caption": "Démo fonctionnelle jobia" }
+              ]
+          },
+          {
+            "name": "SelfCare",
+            "metric": "Next.js, Node, MongoDB, Python",
+            "status": "Application de suivi bien-être et réservation médicale",
+            "description": "Développement de l'application web SelfCare, qui offre aux utilisateurs un suivi de leur bien-être personnel tout en facilitant la réservation de rendez-vous médicaux avec des professionnels de santé.",
+            "emoji_indicator": "💚",
+            "link": null,
+            "media": [
+              { "type": "video", "src": "/assets/SelfCare.mp4", "caption": "Démo fonctionnelle SelfCare" },
+              { "type": "video", "src": "/assets/SelfCare1.mp4", "caption": "Démo fonctionnelle SelfCare1" },
+              { "type": "video", "src": "/assets/SelfCare2.mp4", "caption": "Démo fonctionnelle SelfCare2" }
+            ]
+          },
+          {
+            "name": "Application de syndic",
+            "metric": "React, Node, MySQL",
+            "status": "Gestion de résidences",
+            "description": "Conception et développement d'une application web de gestion de résidences, SYNDIC, visant à faciliter la communication et la gestion financière entre les syndics de copropriété et les résidents.",
+            "emoji_indicator": "🏢",
+            "link": null,
+            "media": [
+              { "type": "video", "src": "/assets/syndic.mp4", "caption": "Vue d'ensemble du syndic" },
+              { "type": "video", "src": "/assets/syndic1.mp4", "caption": "Démo syndic 1" }
+            ]
+          },
+          {
+            "name": "Compteur IMC",
+            "metric": "Android Studio (Java)",
+            "status": "Calcul IMC et état du poids",
+            "description": "Développement d'une application mobile Android permettant aux utilisateurs de calculer leur indice de masse corporelle (IMC) en fonction de leur poids et de leur taille.",
+            "emoji_indicator": "⚖️",
+            "link": null,
+            "media": [
+              { "type": "img", "src": "/assets/imc.PNG", "caption": "Démo imc" },
+              { "type": "img", "src": "/assets/imc1.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "/assets/imc2.PNG", "caption": "Démo imc" },
+              { "type": "img", "src": "/assets/imc3.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "/assets/imc4.PNG", "caption": "Démo imc" },
+              { "type": "img", "src": "/assets/imc5.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "/assets/imc6.PNG", "caption": "Démo imc" },
+              { "type": "img", "src": "/assets/imc7.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "/assets/imc8.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "/assets/imc9.PNG", "caption": "Démo imc" },
+              { "type": "img", "src": "/assets/imc10.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "/assets/imc11.PNG", "caption": "Démo 1 imc" }
+            ]
+          },
+          {
+            "name": "Chasse de profils",
+            "metric": "React, Node, MongoDB",
+            "status": "Plateforme de matching profils/missions",
+            "description": "Conception et développement d'une application web de chasse des profils et missions pour mettre en relation les freelances avec des opportunités professionnelles adaptées à leurs compétences et préférences.",
+            "emoji_indicator": "🔎",
+            "link": null,
+            "media": [
+              { "type": "video", "src": "/assets/freelance.mp4", "caption": "Démo chasse de profils" },
+              { "type": "video", "src": "/assets/freelance1.mp4", "caption": "Démo 1 chasse de profils" }
+            ]
+          }
+        ]
+      }
+    },
+
+    "interaction": {
+      "modal_trigger": {
+        "button_text": "Me Contacter",
+        "modal_content": {
+          "title": "Contacter",
+          "subtitle": "Choisissez une méthode",
+          "options": [
+            {"label": "Email", "icon": "📧", "link": "https://mail.google.com/mail/u/0/?tab=rm&ogbl#search/sioudranim@gmail.com?compose=new"},
+            {"label": "LinkedIn", "icon": "💼", "link": "https://linkedin.com/in/ranim-sioud-6a6999224/"},
+            {"label": "GitHub", "icon": "🐙", "link": "https://github.com/Ranim-sioud"}
+          ]
+        }
+      }
+    }
+  }
+}
