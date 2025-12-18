@@ -5,6 +5,12 @@ build
 .env
 .DS_Store
 =======
+# Ignore videos et images
+*.mp4
+*.png
+*.jpg
+*.jpeg
+
 # Logs
 logs
 *.log
@@ -141,11 +147,6 @@ dist
 !.yarn/sdks
 !.yarn/versions
 
-# Ignore videos et images
-*.mp4
-*.png
-*.jpg
-*.jpeg
 
 # Vite logs files
 vite.config.js.timestamp-*
