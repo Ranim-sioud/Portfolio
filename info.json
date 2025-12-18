@@ -164,8 +164,9 @@
             "emoji_indicator": "🛒",
             "link": null,
             "media": [
-              { "type": "video", "src": "/assets/freelance.mp4", "caption": "Démo chasse de profils" },
-              { "type": "video", "src": "/assets/freelance1.mp4", "caption": "Démo 1 chasse de profils" }
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766086820/nexa_fqaita.mp4", "caption": "Démo de nexa Network" },
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766087143/nexa1_imrrjl.mp4", "caption": "Démo 1 nexa network" },
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766087143/nexa1_imrrjl.mp4", "caption": "Démo 2 nexa network" }
             ]
           },
           {
@@ -176,7 +177,7 @@
             "emoji_indicator": "🤖",
             "link": null,
             "media": [
-              { "type": "video", "src": "/assets/jobia.mp4", "caption": "Démo fonctionnelle jobia" }
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766063411/bandicam_2025-06-19_23-41-09-530_nfcebf.mp4", "caption": "Démo fonctionnelle jobia" }
               ]
           },
           {
@@ -187,9 +188,9 @@
             "emoji_indicator": "💚",
             "link": null,
             "media": [
-              { "type": "video", "src": "/assets/SelfCare.mp4", "caption": "Démo fonctionnelle SelfCare" },
-              { "type": "video", "src": "/assets/SelfCare1.mp4", "caption": "Démo fonctionnelle SelfCare1" },
-              { "type": "video", "src": "/assets/SelfCare2.mp4", "caption": "Démo fonctionnelle SelfCare2" }
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766083997/selfcare_ttjh2c.mp4", "caption": "Démo fonctionnelle SelfCare" },
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766082444/selfcare1_wgkb7i.mp4", "caption": "Démo fonctionnelle SelfCare1" },
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1763818577/nexa-produits/hp8zahsjegok7yhjcgfs.mp4", "caption": "Démo fonctionnelle SelfCare2" }
             ]
           },
           {
@@ -200,7 +201,7 @@
             "emoji_indicator": "🏢",
             "link": null,
             "media": [
-              { "type": "video", "src": "/assets/syndic.mp4", "caption": "Vue d'ensemble du syndic" },
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766078162/syndic1_rvydu0.mp4", "caption": "Vue d'ensemble du syndic" },
               { "type": "video", "src": "/assets/syndic1.mp4", "caption": "Démo syndic 1" }
             ]
           },
@@ -212,18 +213,18 @@
             "emoji_indicator": "⚖️",
             "link": null,
             "media": [
-              { "type": "img", "src": "/assets/imc.PNG", "caption": "Démo imc" },
-              { "type": "img", "src": "/assets/imc1.PNG", "caption": "Démo 1 imc" },
-              { "type": "img", "src": "/assets/imc2.PNG", "caption": "Démo imc" },
-              { "type": "img", "src": "/assets/imc3.PNG", "caption": "Démo 1 imc" },
-              { "type": "img", "src": "/assets/imc4.PNG", "caption": "Démo imc" },
-              { "type": "img", "src": "/assets/imc5.PNG", "caption": "Démo 1 imc" },
-              { "type": "img", "src": "/assets/imc6.PNG", "caption": "Démo imc" },
-              { "type": "img", "src": "/assets/imc7.PNG", "caption": "Démo 1 imc" },
-              { "type": "img", "src": "/assets/imc8.PNG", "caption": "Démo 1 imc" },
-              { "type": "img", "src": "/assets/imc9.PNG", "caption": "Démo imc" },
-              { "type": "img", "src": "/assets/imc10.PNG", "caption": "Démo 1 imc" },
-              { "type": "img", "src": "/assets/imc11.PNG", "caption": "Démo 1 imc" }
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064334/imc_pjs8an.png", "caption": "Démo imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064335/imc1_sjduct.png", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064336/imc2_zb5pta.png", "caption": "Démo imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064339/imc3_qjrlk5.png.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064340/imc4_ncpbhx.png.PNG", "caption": "Démo imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064342/imc5_iq9jhr.png.PNG", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064344/imc6_hdtlhf.png", "caption": "Démo imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064346/imc7_h0bc3p.png", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064348/imc8_kswsks.png", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064349/imc9_njlk0f.png", "caption": "Démo imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064351/imc10_hhnlf7.png", "caption": "Démo 1 imc" },
+              { "type": "img", "src": "https://res.cloudinary.com/dk4nstbum/image/upload/v1766064353/imc11_sxzjph.png", "caption": "Démo 1 imc" }
             ]
           },
           {
@@ -234,8 +235,8 @@
             "emoji_indicator": "🔎",
             "link": null,
             "media": [
-              { "type": "video", "src": "/assets/freelance.mp4", "caption": "Démo chasse de profils" },
-              { "type": "video", "src": "/assets/freelance1.mp4", "caption": "Démo 1 chasse de profils" }
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766063975/bandicam_2022-06-26_13-38-05-058_vekija.mp4", "caption": "Démo chasse de profils" },
+              { "type": "video", "src": "https://res.cloudinary.com/dk4nstbum/video/upload/v1766064079/bandicam_2022-06-26_16-16-07-305_ork9fp.mp4", "caption": "Démo 1 chasse de profils" }
             ]
           }
         ]
