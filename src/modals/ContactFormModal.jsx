@@ -18,10 +18,14 @@ export default function ContactFormModal({ showFormModal, setShowFormModal, colo
 
     // Exemple avec EmailJS (ou ton backend)
     emailjs.send(
-      import.meta.env.VITE_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
-        { name, email, message },
-        import.meta.env.VITE_EMAILJS_PUBLIC_KEY
+      "service_jymj9tr",
+      "template_qwhhe8o",
+      {
+        name: name,
+        email: email,
+        message: message,
+      },
+      "T5mp8fSjpryGm5E-d"
     )
     .then(() => {
       setLoading(false);
